@@ -1,4 +1,4 @@
-﻿using Configuration.Domain.Model.Requisito;
+﻿using Configuration.Domain.Model.Requisitos;
 using SharedKernel.Core;
 using System;
 using System.Threading.Tasks;

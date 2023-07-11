@@ -4,7 +4,7 @@ using Configuration.Domain.ValueObjects;
 using SharedKernel.Core;
 using System;
 
-namespace Configuration.Domain.Model.Proyecto
+namespace Configuration.Domain.Model.Proyectos
 {
     public class Proyecto : AggregateRoot
     {

@@ -1,21 +1,25 @@
 ﻿using Configuration.Domain.ValueObjects;
 using SharedKernel.Core;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Configuration.Domain.Model.Requisito
+namespace Configuration.Domain.Model.TipoProyectos
 {
-    public class Requisito : AggregateRoot
+    public class TipoProyecto : AggregateRoot
     {
         public TextoValue Nombre { get; private set; }
         public TextoValue Descripcion { get; private set; }
 
-        public Requisito(string nombre, string descripcion)
+        public TipoProyecto(string nombre, string descripcion)
         {
             Id = Guid.NewGuid();
             Nombre = nombre;
             Descripcion = descripcion;
         }
 
-        public Requisito() { }
+        public TipoProyecto() { }
     }
 }

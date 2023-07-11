@@ -1,4 +1,4 @@
-﻿using Configuration.Domain.Model.Proyecto;
+﻿using Configuration.Domain.Model.Proyectos;
 using SharedKernel.Core;
 using System;
 using System.Threading.Tasks;

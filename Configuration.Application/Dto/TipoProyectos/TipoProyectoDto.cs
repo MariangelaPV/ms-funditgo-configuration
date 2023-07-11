@@ -1,4 +1,4 @@
-﻿namespace Configuration.Application.Dto.TipoProyecto
+﻿namespace Configuration.Application.Dto.TipoProyectos
 {
     public class TipoProyectoDto
     {

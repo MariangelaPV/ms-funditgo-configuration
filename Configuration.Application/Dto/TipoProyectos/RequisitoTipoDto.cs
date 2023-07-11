@@ -1,6 +1,6 @@
 ﻿using Configuration.Application.Dto.Requisitos;
 
-namespace Configuration.Application.Dto.TipoProyecto
+namespace Configuration.Application.Dto.TipoProyectos
 {
     public class RequisitoTipoDto
     {

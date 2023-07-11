@@ -1,5 +1,4 @@
-﻿using System;
-using SharedKernel.Core;
+﻿using SharedKernel.Core;
 
 namespace Configuration.Domain.ValueObjects
 {

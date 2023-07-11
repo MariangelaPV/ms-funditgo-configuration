@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Configuration.Domain.Model.TipoProyecto
+namespace Configuration.Domain.Model.TipoProyectos
 {
     public class RequisitoTipo : Entity
     {
